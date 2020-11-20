@@ -1,0 +1,7 @@
+C:\Users\Cassady\Desktop\Pokemon Unity\Assets\GameMain\Libraries\PokemonUnity.Shared.dll
+C:\Users\Cassady\Desktop\Pokemon Unity\Assets\GameMain\Libraries\PokemonUnity.Shared.pdb
+C:\Users\Cassady\Desktop\PokemonUnity.Shared\obj\Debug\PokemonUnity.Shared.csprojAssemblyReference.cache
+C:\Users\Cassady\Desktop\PokemonUnity.Shared\obj\Debug\PokemonUnity.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Cassady\Desktop\PokemonUnity.Shared\obj\Debug\PokemonUnity.Shared.csproj.CopyComplete
+C:\Users\Cassady\Desktop\PokemonUnity.Shared\obj\Debug\PokemonUnity.Shared.dll
+C:\Users\Cassady\Desktop\PokemonUnity.Shared\obj\Debug\PokemonUnity.Shared.pdb
